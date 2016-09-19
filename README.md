@@ -1,2 +1,2 @@
 # first-class
-proyecto de la clase 1
+Proyecto de la clase 1 en curso de HTML basico
